@@ -20,7 +20,7 @@ pip install qrcode
 
 ------------------------
 Constants.py:
-You also need to add your Maps' API and Bot's API to Environment Variables (in Windows)
+You also need to add your googleMaps' API and Bot's API to Environment Variables (in Windows)
 
 ------------------------
 
